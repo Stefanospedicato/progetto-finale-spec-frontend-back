@@ -503,5 +503,75 @@
     "id": 23,
     "createdAt": "2025-05-13T10:42:47.215Z",
     "updatedAt": "2025-05-13T10:42:47.215Z"
+  },
+  {
+    "title": "Audi Q8",
+    "category": "SUV",
+    "releaseYear": 2024,
+    "brand": "Audi",
+    "doors": 5,
+    "price": 75000,
+    "fuelType": [
+      "Benzina",
+      "Elettrico"
+    ],
+    "nationality": "Germania",
+    "model": "Q8",
+    "horsepower": 235,
+    "topSpeed": 278,
+    "trasmissione": "Automatico",
+    "video": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/Audi-Logo_2016.svg",
+    "description": "L'Audi Q8 è un SUV coupé di lusso prodotto dalla casa automobilistica tedesca Audi dal 2018. Combina l'eleganza di una coupé con la versatilità di un SUV, offrendo un design sportivo e una tecnologia avanzata",
+    "image": "https://cdn.motor1.com/images/mgl/mrY7q/s3/audi-q8-tfsi-e-quattro-2020.jpg",
+    "id": 24,
+    "createdAt": "2025-05-14T09:13:18.060Z",
+    "updatedAt": "2025-05-14T09:13:18.060Z"
+  },
+  {
+    "title": "Fiat 500",
+    "category": "Elettrico",
+    "releaseYear": 2025,
+    "brand": "Fiat",
+    "doors": 5,
+    "price": 22000,
+    "fuelType": [
+      "Plug-In Hybrid"
+    ],
+    "nationality": "Italia",
+    "model": "500",
+    "horsepower": 100,
+    "topSpeed": 227,
+    "trasmissione": "Automatico",
+    "video": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FIAT_logo_%282020%29.svg/2560px-FIAT_logo_%282020%29.svg.png",
+    "description": "La Fiat 500 Elettrica è un'auto strepitosa.",
+    "image": "https://cdn.motor1.com/images/mgl/9oE3p/s1/fiat-500-elettrica-la-gamma.webp",
+    "id": 25,
+    "createdAt": "2025-05-14T09:44:39.894Z",
+    "updatedAt": "2025-05-14T09:44:39.894Z"
+  },
+  {
+    "title": "Fiat 600",
+    "category": "Berlina",
+    "releaseYear": 2024,
+    "brand": "Fiat",
+    "doors": 5,
+    "price": 19000,
+    "fuelType": [
+      "Elettrico"
+    ],
+    "nationality": "Italia",
+    "model": "600",
+    "horsepower": 97,
+    "topSpeed": 219,
+    "trasmissione": "Automatico",
+    "video": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FIAT_logo_%282020%29.svg/2560px-FIAT_logo_%282020%29.svg.png",
+    "description": "La nuova Fiat 600 ",
+    "image": "https://cdnwp.dealerk.com/eed49ed7/uploads/sites/335/2023/09/fiat600hybrid-scaled.jpg",
+    "id": 26,
+    "createdAt": "2025-05-14T16:00:05.629Z",
+    "updatedAt": "2025-05-14T16:00:05.629Z"
   }
 ]
