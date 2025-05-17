@@ -573,5 +573,28 @@
     "id": 26,
     "createdAt": "2025-05-14T16:00:05.629Z",
     "updatedAt": "2025-05-14T16:00:05.629Z"
+  },
+  {
+    "title": "Dacia Duster",
+    "category": "SUV",
+    "releaseYear": 2023,
+    "brand": "dacia",
+    "doors": 5,
+    "price": 20300,
+    "fuelType": [
+      "GPL"
+    ],
+    "nationality": "Romania",
+    "model": "Duster",
+    "horsepower": 70,
+    "topSpeed": 230,
+    "trasmissione": "Automatico",
+    "video": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dacia-Logo-2021.svg",
+    "description": "La Dacia Duster è bellissima",
+    "image": "https://immagini.alvolante.it/sites/default/files/styles/image_gallery_big/public/media_browser/2021_-_dacia_bigster_concept.jpg",
+    "id": 27,
+    "createdAt": "2025-05-16T08:25:29.585Z",
+    "updatedAt": "2025-05-16T08:25:29.585Z"
   }
 ]
